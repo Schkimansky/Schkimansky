@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Schkimansky
-- 👀 I’m interested in Simplicity
-- 🌱 I’m currently learning nothing (Lazy lol)
-- 📫 Use my Gmail to contact me: ahmadchawla1432@gmail.com
-- 😄 Pronouns: He/Him
+I’m @Schkimansky
+Use my Gmail to contact me: ahmadchawla1432@gmail.com
+Pronouns: He/Him
