@@ -1,19 +1,19 @@
 ## 💼 Technical Skills
 
-# Languages
+### Languages
 Python, CSS4, HTML5, C#, Rust, C++
 
-# Frameworks and Libraries
+### Frameworks and Libraries
 NPM, NodeJS, Svelte, TKinter, TTKBootstrap, CustomTkinter, PyQt5, Qt5, Godot, Flask, FastAPI, Odoo, and a few more
 
-# Editors
+### Editors
 Visual Studio Code, PyCharm, Rider, Neovim (for asm)
 
-# Version Control
+### Version Control
 GitHub, Git
 
-# Operating Systems
+### Operating Systems
 Kubuntu Linux
 
-# Browsers
+### Browsers
 Firefox, Chromium, Chrome
