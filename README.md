@@ -5,5 +5,7 @@ Python, C#, Rust, C++
 Godot, Odoo, Customtkinter, Qt5, FastAPI
 
 Version Control: Git
+
 OS: Kubuntu
+
 Browser: Chromium
