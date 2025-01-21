@@ -1,1 +1,1 @@
-I make stuff in Python, Godot and Odoo.
+I make random stuff
